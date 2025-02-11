@@ -1,3 +1,0 @@
-Estou desenvolvendo a funcionalidade de login
-para o sistema ABC do projeto no qual fui 
-contratado.
